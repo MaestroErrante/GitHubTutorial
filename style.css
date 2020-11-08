@@ -38,3 +38,8 @@ body {
   font-size: 18px;
   font-weight: bolder;
 }
+
+.container .main span {
+  color: aqua;
+  font-size: 18px;
+}
