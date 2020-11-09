@@ -1,18 +1,13 @@
 // Get all quotes
 const quotes = [
-    {
+      {
         quote: 
-         "It's just pathetic to give up on something before you even give it a shot.",
-        author: "Reiko Mikami - Another"
-    },
-    {
-        quote: 
-         'You can die anytime but living takes true courage.',
+         '"You can die anytime but living takes true courage."',
         author: "Kenshin Himura - Rurouni Kenshin"
     },
     {
         quote: 
-         'Every journey begins with a single step, we just have to have patience.',
+         '"Every journey begins with a single step, we just have to have patience."',
         author: "Milly Thompson - Trigun"
     },
     {
@@ -43,7 +38,7 @@ const quotes = [
     {
         quote: 
          'No matter how hard or impossible it is, never lose sight of your goal.',
-        author: "Monkey D Luffy  - One piece"
+        author: "Monkey D. Luffy  - One piece"
     },
     {
         quote: 
