@@ -46,6 +46,16 @@ const quotes = [
 const btn = document.querySelector('.generate');
 
 //Add Event Listener
+btn.addEventListener('click',()=>{
 
+    // Get Random text of Quotes
+    let random = Math.floor(Math.random() * quotes.length );
+    console.log(random);
+
+    //Show text on Screen
+    document.querySelector('.quote').innerText = quotes[random].quote;
+    document.querySelector('.author').innerText = quotes[random].author;
+
+})
 
 console.log(quotes);
