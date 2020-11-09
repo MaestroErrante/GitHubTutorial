@@ -71,6 +71,4 @@ btn.addEventListener('click',()=>{
     document.querySelector('.quote').innerText = quotes[random].quote;
     document.querySelector('.author').innerText = quotes[random].author;
 
-})
-
-console.log(quotes);
+});
