@@ -2,43 +2,58 @@
 const quotes = [
     {
         quote: 
-         'Lorem ipsum dolor sit amet consectetur adipiscing elit elementum',
-        author: "Rudyard walkinshaw"
+         "It's just pathetic to give up on something before you even give it a shot.",
+        author: "Reiko Mikami - Another"
     },
     {
         quote: 
-         'Lorem ipsum dolor sit amet consectetur adipiscing elit elementum',
-        author: "Rudyard walkinshaw"
+         'You can die anytime but living takes true courage.',
+        author: "Kenshin Himura - Rurouni Kenshin"
     },
     {
         quote: 
-         'Lorem ipsum dolor sit amet consectetur adipiscing elit elementum',
-        author: "Rudyard walkinshaw"
+         'Every journey begins with a single step, we just have to have patience.',
+        author: "Milly Thompson - Trigun"
     },
     {
         quote: 
-         'Lorem ipsum dolor sit amet consectetur adipiscing elit elementum',
-        author: "Rudyard walkinshaw"
+         'The ticket to the future is always open.',
+        author: "Vash The Stampede - Trigun"
     },
     {
         quote: 
-         'Lorem ipsum dolor sit amet consectetur adipiscing elit elementum',
-        author: "Rudyard walkinshaw"
+         "It's more important to master the cards you're holding than to complain about the ones your opponent was dealt.",
+        author: "Grimsley - Pokemon"
     },
     {
         quote: 
-         'Lorem ipsum dolor sit amet consectetur adipiscing elit elementum',
-        author: "Rudyard walkinshaw"
+         "If you're gonna insist on gambling and then complain when you lose, you had better work on your game.",
+        author: "Hatsu Kominato - Selector Infected Wixoss"
     },
     {
         quote: 
-         'Lorem ipsum dolor sit amet consectetur adipiscing elit elementum',
-        author: "Rudyard walkinshaw"
+         'Power comes in response to a need, not a desire. You have to create that need.',
+        author: "Goku - Drangon Ball Z"
     },
     {
         quote: 
-         'Lorem ipsum dolor sit amet consectetur adipiscing elit elementum',
-        author: "Rudyard walkinshaw"
+         'I refuse to let my fear control me anymore.',
+        author: "Maka Albarn - Soul Eater"
+    },
+    {
+        quote: 
+         'No matter how hard or impossible it is, never lose sight of your goal.',
+        author: "Monkey D Luffy  - One piece"
+    },
+    {
+        quote: 
+         'The minute you think of giving up, think of the reason why you held on so long.',
+        author: "Natsu Dragneel"
+    },
+    {
+        quote: 
+         'Human beings are strong because we can change ourselves.',
+        author: "Saitama - One Punch Man"
     },
 ];
 
